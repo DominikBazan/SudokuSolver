@@ -1,0 +1,13 @@
+004600000
+800279604
+000000080
+201900350
+370528400
+090100020
+060702000
+000010208
+040800065
+
+"Diabelsko trudne": 3 iteracje
+//Jednak proste, żal...
+http://www.matzoo.pl/lamiglowki/sudoku-poziom-9-diabelsko-trudny_39_244
